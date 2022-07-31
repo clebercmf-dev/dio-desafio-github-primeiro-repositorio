@@ -1,5 +1,5 @@
 # Repositório do Desafio de Projeto sobre Git/GitHub da DIo
-Desafio do Projeto sobre Git/GitHub
+Repositório criado para o Desafio de Projeto.
 
 ## Links Úteis
 [Site Git](https://git-scm.com/)
